@@ -1,0 +1,7 @@
+.icon {
+    align-items: flex-start;
+    display: inline-flex;
+    position: relative;
+    height: 16px !important;
+    width: 16px !important;
+}
